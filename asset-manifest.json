@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/front-end-videogames/static/css/main.32870e03.css",
+    "main.js": "/front-end-videogames/static/js/main.351a909a.js",
+    "static/js/787.d5fa4d18.chunk.js": "/front-end-videogames/static/js/787.d5fa4d18.chunk.js",
+    "static/media/manda.jpg": "/front-end-videogames/static/media/manda.0f3783abfaec049943b1.jpg",
+    "static/media/neon.jpeg": "/front-end-videogames/static/media/neon.04acda34d916bc3b7c15.jpeg",
+    "index.html": "/front-end-videogames/index.html",
+    "main.32870e03.css.map": "/front-end-videogames/static/css/main.32870e03.css.map",
+    "main.351a909a.js.map": "/front-end-videogames/static/js/main.351a909a.js.map",
+    "787.d5fa4d18.chunk.js.map": "/front-end-videogames/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32870e03.css",
+    "static/js/main.351a909a.js"
+  ]
+}
