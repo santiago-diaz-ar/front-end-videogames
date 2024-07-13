@@ -1,0 +1,49 @@
+.Principal {
+  /*  border: 3px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  background-image: url("../img/neon.jpeg"); /* Reemplaza 'ruta/a/tu/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Ajusta la imagen al tamaño del div */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.ContenedorImagen {
+  border: 1px solid rgba(0, 0, 255, 0.612);
+  height: 420px;
+  width: 420px;
+  border-radius: 60%;
+  background-image: url("../img/manda.jpg"); /* Reemplaza 'ruta/a/tu/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Ajusta la imagen al tamaño del div */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  margin-right: 10px;
+}
+
+.ContainerColumnas {
+  display: flex;
+  flex-direction: row;
+  /* border: 2px solid green; */
+  width: 100%;
+}
+
+.columnaDerecha {
+  width: 50%;
+  /* border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.columnaIzquierda {
+  width: 50%;
+  display: flex;
+  justify-content: right;
+  /* border: 2px solid blue; */
+  align-items: center;
+}
+
+.volver {
+  cursor: pointer;
+}

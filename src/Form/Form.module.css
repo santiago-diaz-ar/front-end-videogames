@@ -1,0 +1,14 @@
+.Padre {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-direction: column;
+  height: max-content;
+  height: 100vb;
+  background-image: url("../img/neon.jpeg"); /* Reemplaza 'ruta/a/tu/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Ajusta la imagen al tamaño del div */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+.inputs {
+  margin-bottom: 0.4rem;
+}

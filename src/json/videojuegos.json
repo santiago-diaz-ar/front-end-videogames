@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Halo",
+    "imagen": "https://th.bing.com/th/id/R.ddc43e91db2e9672b9a846b8c0ae3de2?rik=sAxinUhzJtPqug&pid=ImgRaw&r=0",
+    "plataformas": "xbox",
+    "descripcion": "Buen juego de balo y extraterrestes",
+    "fecha de lanzamiento": "01/01/2023",
+    "rating": "10.0",
+    "genero": "accion,ficcion"
+  },
+  {
+    "id": "2",
+    "name": "Halo",
+    "imagen": "https://th.bing.com/th/id/R.aa36fbf805db5ab34b1a35387687abb7?rik=X0uCWwlVZ%2bRiLQ&riu=http%3a%2f%2ff.vividscreen.info%2fsoft%2faf0be721bb36c938d05be9e2dd80fffe%2fHalo-3-1920x1200.jpg&ehk=xmDnVEWFQocCmMHWG5MxiEAjnXMYQqRsSxu%2bj%2bQpTOs%3d&risl=&pid=ImgRaw&r=0",
+    "plataformas": "xbox",
+    "descripcion": "Buen juego de balo y extraterrestes",
+    "fecha de lanzamiento": "01/01/2023",
+    "rating": "10.0",
+    "genero": [
+      {
+        "name": "Amor"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Halo",
+    "imagen": "https://th.bing.com/th/id/OIP.PfJmBrY4ULxSzCZOpGVjUAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain",
+    "plataformas": "xbox",
+    "descripcion": "Buen juego de balo y extraterrestes",
+    "fecha de lanzamiento": "01/01/2023",
+    "rating": "10.0",
+    "genero": "accion,ficcion"
+  },
+  {
+    "id": "4",
+    "name": "Halo",
+    "imagen": "https://th.bing.com/th/id/OIP.WkmZalvGvHWJbF87nJpWtQHaE7?w=1920&h=1278&rs=1&pid=ImgDetMain",
+    "plataformas": "xbox",
+    "descripcion": "Buen juego de balo y extraterrestes",
+    "fecha de lanzamiento": "01/01/2023",
+    "rating": "10.0",
+    "genero": "accion,ficcion"
+  },
+  {
+    "id": "5",
+    "name": "Halo",
+    "imagen": "https://th.bing.com/th/id/OIP.TH85iwP-ZS5r5-I6U9lrdAHaHX?w=896&h=892&rs=1&pid=ImgDetMain",
+    "plataformas": "xbox",
+    "descripcion": "Buen juego de balo y extraterrestes",
+    "fecha de lanzamiento": "01/01/2023",
+    "rating": "10.0",
+    "genero": "accion,ficcion"
+  },
+  {
+    "id": "6",
+    "name": "Halo",
+    "imagen": "https://th.bing.com/th/id/OIP.MRw5spednWBaoM2VmG3q9QHaHa?rs=1&pid=ImgDetMain",
+    "plataformas": "xbox",
+    "descripcion": "Buen juego de balo y extraterrestes",
+    "fecha de lanzamiento": "01/01/2023",
+    "rating": "10.0",
+    "genero": "accion,ficcion"
+  }
+]

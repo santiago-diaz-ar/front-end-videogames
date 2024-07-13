@@ -1,0 +1,34 @@
+.padre {
+  /* border: 3px solid red; */
+  height: 100vb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("../img/neon.jpeg"); /* Reemplaza 'ruta/a/tu/imagen.jpg' con la ruta de tu imagen  */
+  background-size: cover; /* Ajusta la imagen al tamaño del div */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.contenedorBotones {
+  /* border: 3px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.boton {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.889);
+  border-radius: 0.3rem;
+  color: whitesmoke;
+  height: 3rem;
+  padding: 1rem;
+  border: 2px solid gray;
+  margin: 3px;
+}
+
+.texto {
+  color: black; /* Color de las letras */
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; /* Borde blanco alrededor de las letras */
+}

@@ -1,0 +1,40 @@
+.Padre {
+  /* border: 2px solid blue; */
+  display: flex;
+  flex-direction: row;
+  background-image: url("../img/neon.jpeg"); /* Reemplaza 'ruta/a/tu/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Ajusta la imagen al tamaño del div */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  height: 100%;
+  width: 100%;
+}
+.one {
+  /* border: 2px solid magenta; */
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+.two {
+  /* border: 2px solid lime; */
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(169, 169, 169, 0.126);
+}
+
+.imagen {
+  width: 90%;
+  height: 500px;
+  border-radius: 5%;
+  margin: 0.3rem;
+  /*  border: 2px solid red; */
+}
+
+.volver {
+  cursor: pointer;
+}

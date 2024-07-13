@@ -1,0 +1,6 @@
+export const GET_ALL_GAMES = "GET_ALL_GAMES";
+export const DETAIL_GAMES = "DETAIL_GAMES";
+export const GET_GENRES = "GET_GENRES";
+export const ORDER_BY_NAME = "ORDER_BY_NAME";
+export const ORDER_BY_GENRES = "ORDER_BY_GENRES";
+export const SEARCH_VIDEOGAME = "SEARCH_VIDEOGAME";
